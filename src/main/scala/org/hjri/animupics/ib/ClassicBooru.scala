@@ -1,6 +1,6 @@
 package org.hjri.animupics.ib
 
-import org.hjri.animupics.{ImageMeta, ImageBoard}
+import org.hjri.animupics.{ImageMeta, ImageBoard, Tag}
 import java.net.URL
 import xml.{NodeSeq, Elem}
 
@@ -10,7 +10,7 @@ import xml.{NodeSeq, Elem}
  * Date: 2/8/13
  * Time: 8:41 PM
  */
-abstract class ClassicBooru extends ImageBoard {
+class ClassicBooru(private val url:String, private val tags: String) extends ImageBoard(url) {
 
 	def parseMD5(md5: String): ImageMeta = {
 		val xml: Elem = scala.xml.XML.load(new URL(url + md5));
@@ -28,6 +28,9 @@ abstract class ClassicBooru extends ImageBoard {
 			case "e" => 1
 			case _ => Int.MinValue
 		}
-		new ImageMeta(tagList, md5, localRating(rating));
+		val s: Array[Tag] = tagList.map(f => {
+			new Tag(f, "none")
+		})
+		new ImageMeta(s, md5, localRating(rating));
 	}
 }

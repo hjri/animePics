@@ -6,6 +6,6 @@ package org.hjri.animupics
  * Date: 2/8/13
  * Time: 8:35 PM
  */
-class ImageMeta (val tags: Array[String], val md5: String, val rating: Int)
+class ImageMeta (val tags: Array[Tag], val md5: String, val rating: Int)
 
 

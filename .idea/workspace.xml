@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac9e821-2781-487a-a86f-0985e9e0ec32" name="Default" comment="" />
+    <list default="true" id="6ac9e821-2781-487a-a86f-0985e9e0ec32" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Tag.scala" />
+      <change type="DELETED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ib\Gelbooru.scala" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\Filesystem watcher.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Filesystem watcher.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\FilesystemWatcher.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/FilesystemWatcher.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ImageBoard.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageBoard.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ImageBoardAccessor.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageBoardAccessor.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ImageMeta.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageMeta.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ImageParser.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageParser.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\Service.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Service.scala" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\What.sc" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/What.sc" />
+      <change type="MOVED" beforePath="C:\Users\jcd\IdeaProjects\animePics\src\main\java\org\hjri\animupics\ib\ClassicBooru.scala" afterPath="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ib/ClassicBooru.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animePics.iml" afterPath="$PROJECT_DIR$/animePics.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="animePics.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355612569650" ignored="false" />
     <file path="/GelbooruPost.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355611245223" ignored="false" />
     <file path="/a.dummy" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355697165314" ignored="false" />
     <file path="/Rating.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355610221715" ignored="false" />
     <file path="/Test.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355697097996" ignored="false" />
-    <file path="/fragment.java" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360351429642" ignored="false" />
+    <file path="/fragment.java" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360519419726" ignored="false" />
     <file path="/MainFX.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355696947045" ignored="false" />
     <file path="/a.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360344138916" ignored="false" />
     <file path="/MainPane.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1355698422107" ignored="false" />
@@ -33,17 +47,20 @@
     <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1359495906398" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/settings-1.0.0.xsd" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1359495906398" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/profiles-1.0.0.xsd" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1359495906398" ignored="false" />
-    <file path="/What.sc" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360346244268" ignored="false" />
+    <file path="/What.sc" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360450023513" ignored="false" />
     <file path="/pom.xml" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1359497781876" ignored="false" />
     <file path="/filesystemWatcher.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1359672938350" ignored="false" />
     <file path="/FilesystemWatcher.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360350895054" ignored="false" />
-    <file path="/ImageParser.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360351587680" ignored="false" />
+    <file path="/ImageParser.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360449952688" ignored="false" />
     <file path="/ImageBoardParser.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360341186945" ignored="false" />
-    <file path="/ImageBoard.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360346009626" ignored="false" />
-    <file path="/ImageMeta.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360342922337" ignored="false" />
-    <file path="/ClassicBooru.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360345999621" ignored="false" />
-    <file path="/Gelbooru.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360346027312" ignored="false" />
-    <file path="/Service.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360350556215" ignored="false" />
+    <file path="/ImageBoard.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360364345771" ignored="false" />
+    <file path="/ImageMeta.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360449511006" ignored="false" />
+    <file path="/ClassicBooru.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360517989431" ignored="false" />
+    <file path="/Gelbooru.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360364232176" ignored="false" />
+    <file path="/Service.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360520411351" ignored="false" />
+    <file path="/Dummy.txt" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360363913875" ignored="false" />
+    <file path="/Tag.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360452214032" ignored="false" />
+    <file path="/TagType.scala" changelist="6ac9e821-2781-487a-a86f-0985e9e0ec32" time="1360364919627" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +83,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
@@ -101,7 +119,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -121,18 +138,58 @@
         </entry>
       </file>
       <file leaf-file-name="What.sc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/What.sc">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/What.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="74" selection-start="159" selection-end="159" vertical-scroll-proportion="0.604811">
-              <folding />
+            <state line="4" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.10289389">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FilesystemWatcher.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/FilesystemWatcher.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/FilesystemWatcher.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="176" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.5321101">
+            <state line="30" column="52" selection-start="594" selection-end="594" vertical-scroll-proportion="0.08459215">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Service.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassicBooru.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ib/ClassicBooru.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="36" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#31#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageMeta.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageMeta.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="36" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageParser.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageParser.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="56" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#28#50#0" expanded="true" />
               </folding>
@@ -140,48 +197,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Service.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/Service.scala">
+      <file leaf-file-name="Tag.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Tag.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="23" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassicBooru.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/ClassicBooru.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gelbooru.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/Gelbooru.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="88" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageBoard.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoard.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="29" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageParser.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageParser.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="91" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+            <state line="38" column="59" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#28#46#0" expanded="true" />
+                <element signature="e#27#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,6 +215,15 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="GradleLocalSettings">
     <option name="expandStates">
       <map>
@@ -204,22 +234,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/org/hjri/animupics/panes/MainPane.java" />
-        <option value="$PROJECT_DIR$/resources/main.fxml" />
-        <option value="$PROJECT_DIR$/src/org/hjri/animupics/panes/MainPaneO.scala" />
-        <option value="$PROJECT_DIR$/src/org/hjri/animupics/What.sc" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/filesystemWatcher.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoardParser.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoardAccessor.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageMeta.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoard.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/Gelbooru.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/ClassicBooru.scala" />
         <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/What.sc" />
         <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/Service.scala" />
         <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/FilesystemWatcher.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/Gelbooru.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/ClassicBooru.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoard.scala" />
         <option value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageBoard.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TagType.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Tag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageMeta.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/What.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Tag.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageParser.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ib/ClassicBooru.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Service.scala" />
       </list>
     </option>
   </component>
@@ -260,10 +290,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -281,7 +309,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -307,17 +335,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="animePics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -375,26 +392,8 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="animePics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="animePics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -420,7 +419,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -442,12 +441,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animePics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animePics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animePics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -459,8 +487,8 @@
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -474,12 +502,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jcd\IdeaProjects\animePics\src\main\scala\org\hjri\animupics" />
       <recent name="C:\Users\jcd\Documents\GitHub\animupics" />
       <recent name="C:\Users\jcd\IdeaProjects\animePics\resources" />
       <recent name="C:\Users\jcd\IdeaProjects\animePics\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Service">
+  <component name="RunManager" selected="Worksheet.WS: What.sc">
     <configuration default="false" name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
       <module name="animePics" />
       <setting name="vmparams4" value="-Djline.terminal=NONE" />
@@ -493,7 +522,7 @@
       <module name="animePics" />
       <setting name="vmparams4" value="-Djline.terminal=NONE" />
       <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="worksheetField" value="$PROJECT_DIR$/src/main/java/org/hjri/animupics/What.sc" />
+      <setting name="worksheetField" value="$PROJECT_DIR$/src/main/scala/org/hjri/animupics/What.sc" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
@@ -674,9 +703,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Service" />
-        <item index="1" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-        <item index="2" class="java.lang.String" itemvalue="Worksheet.WS: What.sc" />
+        <item index="0" class="java.lang.String" itemvalue="Worksheet.WS: What.sc" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Service" />
+        <item index="2" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
         <item index="3" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -713,29 +742,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6709129" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.6709129" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.64350456" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905138" sideWeight="0.49839914" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31916997" sideWeight="0.5130208" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31923464" sideWeight="0.49166667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31916997" sideWeight="0.48333332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23645833" sideWeight="0.6333992" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33280087" sideWeight="0.6709129" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33229166" sideWeight="0.6828063" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.399361" sideWeight="0.6709129" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="true" weight="0.23645833" sideWeight="0.35968378" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.35649547" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32326284" sideWeight="0.49786553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.23645833" sideWeight="0.35968378" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.68083006" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32312253" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -825,48 +854,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/jre/lib/rt.jar!/sun/nio/fs/AbstractWatchKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="1271" selection-end="1276" vertical-scroll-proportion="0.45434543" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/nio/file/WatchEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="17" selection-start="948" selection-end="948" vertical-scroll-proportion="0.3329718" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoardAccessor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/Filesystem watcher.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageMeta.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="6" selection-start="855" selection-end="855" vertical-scroll-proportion="-0.94670844">
-          <folding />
-        </state>
+        <state line="48" column="6" selection-start="855" selection-end="855" vertical-scroll-proportion="-0.94670844" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/scala/src/scala-library-src.jar!/scala/App.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="6" selection-start="1533" selection-end="1536" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="37" column="6" selection-start="1533" selection-end="1536" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/jre/lib/rt.jar!/sun/nio/fs/WindowsFileSystem.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="92" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.66976744">
+        <state line="28" column="92" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.66976744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageBoard.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -878,56 +883,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageBoard.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0.jar!/scala/util/matching/Regex.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="29" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+        <state line="12" column="6" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/Gelbooru.scala">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="88" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+        <state line="899" column="18" selection-start="34431" selection-end="34431" vertical-scroll-proportion="0.33282673">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ib/ClassicBooru.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0-sources.jar!/scala/util/matching/Regex.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
+        <state line="297" column="13" selection-start="13094" selection-end="13094" vertical-scroll-proportion="0.38145897">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/Service.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Tag.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/ImageParser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="91" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+        <state line="38" column="59" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#28#46#0" expanded="true" />
+            <element signature="e#27#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/What.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/What.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="74" selection-start="159" selection-end="159" vertical-scroll-proportion="0.604811">
+        <state line="4" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.10289389">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageMeta.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/hjri/animupics/FilesystemWatcher.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ImageParser.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="176" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.5321101">
+        <state line="15" column="56" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#28#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/ib/ClassicBooru.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="36" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#31#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/scala/src/scala-library-src.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="278" column="8" selection-start="13457" selection-end="13457" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/Service.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/org/hjri/animupics/FilesystemWatcher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="52" selection-start="594" selection-end="594" vertical-scroll-proportion="0.08459215">
+          <folding />
         </state>
       </provider>
     </entry>
